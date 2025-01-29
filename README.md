@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Mehul Pol
 
 ## 📊 Data Enthusiast | 📈 Aspiring Data Scientist | 🏆 Competitive Gaming Analyst
 
-I'm currently completing my bachelor's degree (graduating May 2025) and plan to pursue a Master's in Data Science at UVA. My interests lie in data analysis, sports analytics, data visualization, and computational problem-solving.
+I'm currently completing my bachelor's degree (graduating May 2025) and pursuing a Master's in Data Science starting in August 2025. My interests lie in data analysis, sports analytics, data visualization, and computational problem-solving.
 
 ---
 
