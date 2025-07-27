@@ -1,19 +1,12 @@
 # Hi there! 👋 I'm Mehul Pol
 
-## 📊 Data Enthusiast | 📈 Aspiring Data Scientist | 🏆 Sports & Competitive Gaming Analyst
+## 📊 Data Enthusiast | 📈 Aspiring Data Scientist
 
-I'm currently completing my bachelor's degree (graduating May 2025) and pursuing a Master's in Data Science starting in August 2025. My interests lie in data analysis, sports analytics, data visualization, and computational problem-solving.
+I am a recent UVA undergrdauate, currently pursuing a Master's in Applied Data Science at CMU graduating in May 2026. My interests lie in data analysis, sports analytics, data visualization, and computational problem-solving.
 
 ---
 
-## 🔥 Past Projects
-
-### 🎮 League of Legends Data Visualization
-
-- Exploring pro play data (2014-2024) to uncover meta trends, champion performance, and strategic shifts.
-- Using **Shiny (R), Plotly, and animation** to create interactive and engaging visualizations.
-- Investigating factors like side advantage, role-specific performance, and itemization strategies.
-- Shiny App: https://mehul-statting.shinyapps.io/Final_Project/.
+## Past Projects
 
 ### 🏆 Big Data Bowl Submission
 
@@ -28,12 +21,18 @@ I'm currently completing my bachelor's degree (graduating May 2025) and pursuing
 - Analyzed players' impacts on team performance and identified the most efficient lineups based on novel statistical metrics and methods.
 - Retired Instragram Page for these Analytics: https://www.instagram.com/hoos_hoops_analytics?igsh=cWNyMjlxanczZ2pu
 
+### 🎮 League of Legends Data Visualization
+
+- Exploring pro play data (2014-2024) to uncover meta trends, champion performance, and strategic shifts.
+- Using **Shiny (R), Plotly, and animation** to create interactive and engaging visualizations.
+- Investigating factors like side advantage, role-specific performance, and itemization strategies.
+- Shiny App: https://mehul-statting.shinyapps.io/Final_Project/.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, R, SQL
+- **Languages:** Python, R, SQL, Java
 - **Data Science & Visualization:** ggplot2, Shiny, Plotly, Tableau, pandas, NumPy
 - **Machine Learning & Forecasting:** statsmodels, scikit-learn, time series modeling
 - **Other:** Git, Bash
