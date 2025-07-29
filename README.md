@@ -8,6 +8,13 @@ I am a recent UVA undergrdauate, currently pursuing a Master's in Applied Data S
 
 ## Past Projects
 
+### 🏈 NFL Combine Career Prediction
+
+- Analyzed Combine metrics (2010–2023) to predict NFL success using machine learning models.
+- Applied GLM, Random Forest, GBM, and Deep Neural Networks for both classification and regression.
+- Engineered dataset from nflverse, using EM, kNN, and position-based imputation to handle missing data.
+- Presented findings and practical takeaways in both technical and non-technical formats as a capstone project.
+
 ### 🏆 Big Data Bowl Submission
 
 - Participated in the **NFL Big Data Bowl**, using player tracking data to develop innovative analytical solutions.
