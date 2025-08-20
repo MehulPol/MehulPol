@@ -2,7 +2,7 @@
 
 ## 📊 Data Enthusiast | 📈 Aspiring Data Scientist
 
-I am a recent UVA undergrdauate, currently pursuing a Master's in Applied Data Science at CMU graduating in May 2026. My interests lie in data analysis, sports analytics, data visualization, and computational problem-solving.
+I am a recent UVA undergrdauate, currently pursuing a Master's in Data Analytics for Science at CMU graduating in May 2026. My interests lie in data analysis, sports analytics, data visualization, and computational problem-solving.
 
 ---
 
