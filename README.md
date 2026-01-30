@@ -6,6 +6,26 @@ I am a recent UVA undergrdauate, currently pursuing a Master's in Data Analytics
 
 ---
 
+## Current Projects
+
+### Physics Informed Neural Network Research
+
+- Researching the current state of progress on neural networks that are being utilized for high level physics PDEs.
+- Implementing PINNs using Pytorch and Jax libraries and evaluating their utility in comparison to analytical simulations.
+
+### Media Analytics for a Sports Team
+
+- Gathering and Analyzing social media data surrounding the team and its competitors.
+- Recommending business proposals by utilizing data dashboards and data backed conclusions.
+
+### Settlers of Catan multi-agent player
+
+- Building and adapting a programmable Catan environment in Python that supports multiple agents/players, action spaces, and resource generation.
+- Implementing baseline agents alongside learning based agents (reinforcement learning models etc.) capable of making placements, trading and in-game decisions.
+- Finally we will evaluate agent performance by analyzing win rates, trading patterns, and strategy observations across repeated games.
+
+---
+
 ## Past Projects
 
 ### 🏈 NFL Combine Career Prediction
@@ -41,7 +61,7 @@ I am a recent UVA undergrdauate, currently pursuing a Master's in Data Analytics
 
 - **Languages:** Python, R, SQL, Java
 - **Data Science & Visualization:** ggplot2, Shiny, Plotly, Tableau, pandas, NumPy
-- **Machine Learning & Forecasting:** statsmodels, scikit-learn, time series modeling
+- **Machine Learning & Forecasting:** pytorch, jax, scikit-learn, time series modeling
 - **Other:** Git, Bash
 
 ---
